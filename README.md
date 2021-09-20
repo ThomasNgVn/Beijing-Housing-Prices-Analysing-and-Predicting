@@ -3,6 +3,6 @@ The task is to build a model of housing price in Bejing. There are many models a
 
 Dataset is get from Kaggle Competition.
 
-In this project, I used Pandas to clean and wrangling data. Then, I built machine learning models by diffent algorithms such as Linear Regresstion, Decision Tree, SVM, Random Forest. Models are evaluated by RMSE metric.
+In this project, I used Pandas to clean and wrangling data. Then, I built machine learning models by different algorithms such as Linear Regresstion, Decision Tree, SVM, Random Forest. Models are evaluated by RMSE metric.
 
 
